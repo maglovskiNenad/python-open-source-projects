@@ -10,6 +10,8 @@ on:
 jobs:
   run_script:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
 
     steps:
       - name: Checkout repository
@@ -38,5 +40,5 @@ jobs:
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           git add open-source.txt  
-          git diff-index --quiet HEAD || (git commit -a -m "Update open-source.txt log" --allow-empty)
+          git commit -m "Update open-source.txt log"
           git push origin main
