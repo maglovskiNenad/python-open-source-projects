@@ -13,7 +13,8 @@ with open("open-source.txt", "w", encoding="utf-8") as file:
         owner_url = repo["owner"]["html_url"]
         description = repo["description"]
         name = repo["name"]
-        file.write(f" \n Name: {name}\n Description: {
-                   description}\n Owner url: {owner_url} \n\n")
+        file.write(f"\n Name: {name}\n"
+                   f" Description: {description}\n"
+                   f" Owner url: {owner_url} \n\n")
         file.write(
             "-------------------------------------------------------------------------------------------------------------------\n\n")
