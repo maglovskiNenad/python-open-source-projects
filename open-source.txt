@@ -36,13 +36,6 @@ Open source GitHub Repositories with Python language:
 -------------------------------------------------------------------------------------------------------------------
 
 
- Name: Python-100-Days
- Description: Python - 100天从新手到大师
- Owner url: https://github.com/jackfrued 
-
--------------------------------------------------------------------------------------------------------------------
-
-
  Name: stable-diffusion-webui
  Description: Stable Diffusion web UI
  Owner url: https://github.com/AUTOMATIC1111 
@@ -64,16 +57,16 @@ Open source GitHub Repositories with Python language:
 -------------------------------------------------------------------------------------------------------------------
 
 
- Name: HelloGitHub
- Description: :octocat: 分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub.
- Owner url: https://github.com/521xueweihan 
+ Name: yt-dlp
+ Description: A feature-rich command-line audio/video downloader
+ Owner url: https://github.com/yt-dlp 
 
 -------------------------------------------------------------------------------------------------------------------
 
 
- Name: yt-dlp
- Description: A feature-rich command-line audio/video downloader
- Owner url: https://github.com/yt-dlp 
+ Name: HelloGitHub
+ Description: :octocat: 分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub.
+ Owner url: https://github.com/521xueweihan 
 
 -------------------------------------------------------------------------------------------------------------------
 
@@ -155,9 +148,23 @@ Open source GitHub Repositories with Python language:
 -------------------------------------------------------------------------------------------------------------------
 
 
+ Name: screenshot-to-code
+ Description: Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)
+ Owner url: https://github.com/abi 
+
+-------------------------------------------------------------------------------------------------------------------
+
+
  Name: gpt_academic
  Description: 为GPT/GLM等LLM大语言模型提供实用化交互接口，特别优化论文阅读/润色/写作体验，模块化设计，支持自定义快捷按钮&函数插件，支持Python和C++等项目剖析&自译解功能，PDF/LaTex论文翻译&总结功能，支持并行问询多种LLM模型，支持chatglm3等本地模型。接入通义千问, deepseekcoder, 讯飞星火, 文心一言, llama2, rwkv, claude2, moss等。
  Owner url: https://github.com/binary-husky 
+
+-------------------------------------------------------------------------------------------------------------------
+
+
+ Name: DeepSeek-V3
+ Description: None
+ Owner url: https://github.com/deepseek-ai 
 
 -------------------------------------------------------------------------------------------------------------------
 
@@ -169,16 +176,16 @@ Open source GitHub Repositories with Python language:
 -------------------------------------------------------------------------------------------------------------------
 
 
- Name: screenshot-to-code
- Description: Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)
- Owner url: https://github.com/abi 
+ Name: d2l-zh
+ Description: 《动手学深度学习》：面向中文读者、能运行、可讨论。中英文版被70多个国家的500多所大学用于教学。
+ Owner url: https://github.com/d2l-ai 
 
 -------------------------------------------------------------------------------------------------------------------
 
 
- Name: d2l-zh
- Description: 《动手学深度学习》：面向中文读者、能运行、可讨论。中英文版被70多个国家的500多所大学用于教学。
- Owner url: https://github.com/d2l-ai 
+ Name: ComfyUI
+ Description: The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.
+ Owner url: https://github.com/comfyanonymous 
 
 -------------------------------------------------------------------------------------------------------------------
 
@@ -198,15 +205,8 @@ Open source GitHub Repositories with Python language:
 
 
  Name: gpt4free
- Description: The official gpt4free repository | various collection of powerful language models
+ Description: The official gpt4free repository | various collection of powerful language models | gpt-4o and deepseek v3 & r1
  Owner url: https://github.com/xtekky 
-
--------------------------------------------------------------------------------------------------------------------
-
-
- Name: keras
- Description: Deep Learning for humans
- Owner url: https://github.com/keras-team 
 
 -------------------------------------------------------------------------------------------------------------------
 
