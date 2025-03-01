@@ -78,6 +78,13 @@ Open source GitHub Repositories with Python language:
 -------------------------------------------------------------------------------------------------------------------
 
 
+ Name: DeepSeek-V3
+ Description: None
+ Owner url: https://github.com/deepseek-ai 
+
+-------------------------------------------------------------------------------------------------------------------
+
+
  Name: pytorch
  Description: Tensors and Dynamic neural networks in Python with strong GPU acceleration
  Owner url: https://github.com/pytorch 
@@ -106,16 +113,16 @@ Open source GitHub Repositories with Python language:
 -------------------------------------------------------------------------------------------------------------------
 
 
- Name: core
- Description: :house_with_garden: Open source home automation that puts local control and privacy first.
- Owner url: https://github.com/home-assistant 
+ Name: whisper
+ Description: Robust Speech Recognition via Large-Scale Weak Supervision
+ Owner url: https://github.com/openai 
 
 -------------------------------------------------------------------------------------------------------------------
 
 
- Name: whisper
- Description: Robust Speech Recognition via Large-Scale Weak Supervision
- Owner url: https://github.com/openai 
+ Name: core
+ Description: :house_with_garden: Open source home automation that puts local control and privacy first.
+ Owner url: https://github.com/home-assistant 
 
 -------------------------------------------------------------------------------------------------------------------
 
@@ -134,16 +141,23 @@ Open source GitHub Repositories with Python language:
 -------------------------------------------------------------------------------------------------------------------
 
 
- Name: flask
- Description: The Python micro framework for building web applications.
- Owner url: https://github.com/pallets 
+ Name: devops-exercises
+ Description: Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
+ Owner url: https://github.com/bregman-arie 
 
 -------------------------------------------------------------------------------------------------------------------
 
 
- Name: devops-exercises
- Description: Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
- Owner url: https://github.com/bregman-arie 
+ Name: ComfyUI
+ Description: The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.
+ Owner url: https://github.com/comfyanonymous 
+
+-------------------------------------------------------------------------------------------------------------------
+
+
+ Name: flask
+ Description: The Python micro framework for building web applications.
+ Owner url: https://github.com/pallets 
 
 -------------------------------------------------------------------------------------------------------------------
 
@@ -162,13 +176,6 @@ Open source GitHub Repositories with Python language:
 -------------------------------------------------------------------------------------------------------------------
 
 
- Name: DeepSeek-V3
- Description: None
- Owner url: https://github.com/deepseek-ai 
-
--------------------------------------------------------------------------------------------------------------------
-
-
  Name: awesome-machine-learning
  Description: A curated list of awesome Machine Learning frameworks, libraries and software.
  Owner url: https://github.com/josephmisiti 
@@ -179,13 +186,6 @@ Open source GitHub Repositories with Python language:
  Name: d2l-zh
  Description: 《动手学深度学习》：面向中文读者、能运行、可讨论。中英文版被70多个国家的500多所大学用于教学。
  Owner url: https://github.com/d2l-ai 
-
--------------------------------------------------------------------------------------------------------------------
-
-
- Name: ComfyUI
- Description: The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.
- Owner url: https://github.com/comfyanonymous 
 
 -------------------------------------------------------------------------------------------------------------------
 
@@ -205,7 +205,7 @@ Open source GitHub Repositories with Python language:
 
 
  Name: gpt4free
- Description: The official gpt4free repository | various collection of powerful language models | gpt-4o and deepseek v3 & r1
+ Description: The official gpt4free repository | various collection of powerful language models | o3 and deepseek r1, gpt-4.5
  Owner url: https://github.com/xtekky 
 
 -------------------------------------------------------------------------------------------------------------------
