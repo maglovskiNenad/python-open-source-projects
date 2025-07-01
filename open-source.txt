@@ -51,7 +51,7 @@ Open source GitHub Repositories with Python language:
 
 
  Name: transformers
- Description: 🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.
+ Description: 🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training. 
  Owner url: https://github.com/huggingface 
 
 -------------------------------------------------------------------------------------------------------------------
@@ -106,13 +106,6 @@ Open source GitHub Repositories with Python language:
 -------------------------------------------------------------------------------------------------------------------
 
 
- Name: django
- Description: The Web framework for perfectionists with deadlines.
- Owner url: https://github.com/django 
-
--------------------------------------------------------------------------------------------------------------------
-
-
  Name: whisper
  Description: Robust Speech Recognition via Large-Scale Weak Supervision
  Owner url: https://github.com/openai 
@@ -120,9 +113,16 @@ Open source GitHub Repositories with Python language:
 -------------------------------------------------------------------------------------------------------------------
 
 
- Name: core
- Description: :house_with_garden: Open source home automation that puts local control and privacy first.
- Owner url: https://github.com/home-assistant 
+ Name: django
+ Description: The Web framework for perfectionists with deadlines.
+ Owner url: https://github.com/django 
+
+-------------------------------------------------------------------------------------------------------------------
+
+
+ Name: realworld
+ Description: "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more
+ Owner url: https://github.com/gothinkster 
 
 -------------------------------------------------------------------------------------------------------------------
 
@@ -130,6 +130,20 @@ Open source GitHub Repositories with Python language:
  Name: ComfyUI
  Description: The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.
  Owner url: https://github.com/comfyanonymous 
+
+-------------------------------------------------------------------------------------------------------------------
+
+
+ Name: langflow
+ Description: Langflow is a powerful tool for building and deploying AI-powered agents and workflows.
+ Owner url: https://github.com/langflow-ai 
+
+-------------------------------------------------------------------------------------------------------------------
+
+
+ Name: core
+ Description: :house_with_garden: Open source home automation that puts local control and privacy first.
+ Owner url: https://github.com/home-assistant 
 
 -------------------------------------------------------------------------------------------------------------------
 
@@ -169,6 +183,13 @@ Open source GitHub Repositories with Python language:
 -------------------------------------------------------------------------------------------------------------------
 
 
+ Name: d2l-zh
+ Description: 《动手学深度学习》：面向中文读者、能运行、可讨论。中英文版被70多个国家的500多所大学用于教学。
+ Owner url: https://github.com/d2l-ai 
+
+-------------------------------------------------------------------------------------------------------------------
+
+
  Name: screenshot-to-code
  Description: Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)
  Owner url: https://github.com/abi 
@@ -183,30 +204,9 @@ Open source GitHub Repositories with Python language:
 -------------------------------------------------------------------------------------------------------------------
 
 
- Name: d2l-zh
- Description: 《动手学深度学习》：面向中文读者、能运行、可讨论。中英文版被70多个国家的500多所大学用于教学。
- Owner url: https://github.com/d2l-ai 
-
--------------------------------------------------------------------------------------------------------------------
-
-
  Name: gpt_academic
  Description: 为GPT/GLM等LLM大语言模型提供实用化交互接口，特别优化论文阅读/润色/写作体验，模块化设计，支持自定义快捷按钮&函数插件，支持Python和C++等项目剖析&自译解功能，PDF/LaTex论文翻译&总结功能，支持并行问询多种LLM模型，支持chatglm3等本地模型。接入通义千问, deepseekcoder, 讯飞星火, 文心一言, llama2, rwkv, claude2, moss等。
  Owner url: https://github.com/binary-husky 
-
--------------------------------------------------------------------------------------------------------------------
-
-
- Name: awesome-machine-learning
- Description: A curated list of awesome Machine Learning frameworks, libraries and software.
- Owner url: https://github.com/josephmisiti 
-
--------------------------------------------------------------------------------------------------------------------
-
-
- Name: langflow
- Description: Langflow is a powerful tool for building and deploying AI-powered agents and workflows.
- Owner url: https://github.com/langflow-ai 
 
 -------------------------------------------------------------------------------------------------------------------
 
