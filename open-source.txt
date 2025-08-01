@@ -85,6 +85,13 @@ Open source GitHub Repositories with Python language:
 -------------------------------------------------------------------------------------------------------------------
 
 
+ Name: langflow
+ Description: Langflow is a powerful tool for building and deploying AI-powered agents and workflows.
+ Owner url: https://github.com/langflow-ai 
+
+-------------------------------------------------------------------------------------------------------------------
+
+
  Name: thefuck
  Description: Magnificent app which corrects your previous console command.
  Owner url: https://github.com/nvbn 
@@ -120,23 +127,9 @@ Open source GitHub Repositories with Python language:
 -------------------------------------------------------------------------------------------------------------------
 
 
- Name: realworld
- Description: "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more
- Owner url: https://github.com/gothinkster 
-
--------------------------------------------------------------------------------------------------------------------
-
-
  Name: ComfyUI
  Description: The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.
  Owner url: https://github.com/comfyanonymous 
-
--------------------------------------------------------------------------------------------------------------------
-
-
- Name: langflow
- Description: Langflow is a powerful tool for building and deploying AI-powered agents and workflows.
- Owner url: https://github.com/langflow-ai 
 
 -------------------------------------------------------------------------------------------------------------------
 
@@ -155,16 +148,16 @@ Open source GitHub Repositories with Python language:
 -------------------------------------------------------------------------------------------------------------------
 
 
- Name: models
- Description: Models and examples built with TensorFlow
- Owner url: https://github.com/tensorflow 
+ Name: devops-exercises
+ Description: Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
+ Owner url: https://github.com/bregman-arie 
 
 -------------------------------------------------------------------------------------------------------------------
 
 
- Name: devops-exercises
- Description: Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
- Owner url: https://github.com/bregman-arie 
+ Name: models
+ Description: Models and examples built with TensorFlow
+ Owner url: https://github.com/tensorflow 
 
 -------------------------------------------------------------------------------------------------------------------
 
@@ -204,9 +197,16 @@ Open source GitHub Repositories with Python language:
 -------------------------------------------------------------------------------------------------------------------
 
 
- Name: gpt_academic
- Description: 为GPT/GLM等LLM大语言模型提供实用化交互接口，特别优化论文阅读/润色/写作体验，模块化设计，支持自定义快捷按钮&函数插件，支持Python和C++等项目剖析&自译解功能，PDF/LaTex论文翻译&总结功能，支持并行问询多种LLM模型，支持chatglm3等本地模型。接入通义千问, deepseekcoder, 讯飞星火, 文心一言, llama2, rwkv, claude2, moss等。
- Owner url: https://github.com/binary-husky 
+ Name: markitdown
+ Description: Python tool for converting files and office documents to Markdown.
+ Owner url: https://github.com/microsoft 
+
+-------------------------------------------------------------------------------------------------------------------
+
+
+ Name: awesome-machine-learning
+ Description: A curated list of awesome Machine Learning frameworks, libraries and software.
+ Owner url: https://github.com/josephmisiti 
 
 -------------------------------------------------------------------------------------------------------------------
 
