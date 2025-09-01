@@ -78,16 +78,16 @@ Open source GitHub Repositories with Python language:
 -------------------------------------------------------------------------------------------------------------------
 
 
- Name: DeepSeek-V3
- Description: None
- Owner url: https://github.com/deepseek-ai 
+ Name: langflow
+ Description: Langflow is a powerful tool for building and deploying AI-powered agents and workflows.
+ Owner url: https://github.com/langflow-ai 
 
 -------------------------------------------------------------------------------------------------------------------
 
 
- Name: langflow
- Description: Langflow is a powerful tool for building and deploying AI-powered agents and workflows.
- Owner url: https://github.com/langflow-ai 
+ Name: DeepSeek-V3
+ Description: None
+ Owner url: https://github.com/deepseek-ai 
 
 -------------------------------------------------------------------------------------------------------------------
 
@@ -120,16 +120,16 @@ Open source GitHub Repositories with Python language:
 -------------------------------------------------------------------------------------------------------------------
 
 
- Name: django
- Description: The Web framework for perfectionists with deadlines.
- Owner url: https://github.com/django 
+ Name: ComfyUI
+ Description: The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.
+ Owner url: https://github.com/comfyanonymous 
 
 -------------------------------------------------------------------------------------------------------------------
 
 
- Name: ComfyUI
- Description: The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.
- Owner url: https://github.com/comfyanonymous 
+ Name: django
+ Description: The Web framework for perfectionists with deadlines.
+ Owner url: https://github.com/django 
 
 -------------------------------------------------------------------------------------------------------------------
 
@@ -176,6 +176,13 @@ Open source GitHub Repositories with Python language:
 -------------------------------------------------------------------------------------------------------------------
 
 
+ Name: markitdown
+ Description: Python tool for converting files and office documents to Markdown.
+ Owner url: https://github.com/microsoft 
+
+-------------------------------------------------------------------------------------------------------------------
+
+
  Name: d2l-zh
  Description: 《动手学深度学习》：面向中文读者、能运行、可讨论。中英文版被70多个国家的500多所大学用于教学。
  Owner url: https://github.com/d2l-ai 
@@ -197,16 +204,9 @@ Open source GitHub Repositories with Python language:
 -------------------------------------------------------------------------------------------------------------------
 
 
- Name: markitdown
- Description: Python tool for converting files and office documents to Markdown.
- Owner url: https://github.com/microsoft 
-
--------------------------------------------------------------------------------------------------------------------
-
-
- Name: awesome-machine-learning
- Description: A curated list of awesome Machine Learning frameworks, libraries and software.
- Owner url: https://github.com/josephmisiti 
+ Name: PayloadsAllTheThings
+ Description: A list of useful payloads and bypass for Web Application Security and Pentest/CTF
+ Owner url: https://github.com/swisskyrepo 
 
 -------------------------------------------------------------------------------------------------------------------
 
