@@ -64,9 +64,9 @@ Open source GitHub Repositories with Python language:
 -------------------------------------------------------------------------------------------------------------------
 
 
- Name: HelloGitHub
- Description: :octocat: 分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub.
- Owner url: https://github.com/521xueweihan 
+ Name: langflow
+ Description: Langflow is a powerful tool for building and deploying AI-powered agents and workflows.
+ Owner url: https://github.com/langflow-ai 
 
 -------------------------------------------------------------------------------------------------------------------
 
@@ -78,9 +78,16 @@ Open source GitHub Repositories with Python language:
 -------------------------------------------------------------------------------------------------------------------
 
 
- Name: langflow
- Description: Langflow is a powerful tool for building and deploying AI-powered agents and workflows.
- Owner url: https://github.com/langflow-ai 
+ Name: HelloGitHub
+ Description: :octocat: 分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub.
+ Owner url: https://github.com/521xueweihan 
+
+-------------------------------------------------------------------------------------------------------------------
+
+
+ Name: langchain
+ Description: 🦜🔗 The platform for reliable agents.
+ Owner url: https://github.com/langchain-ai 
 
 -------------------------------------------------------------------------------------------------------------------
 
@@ -106,16 +113,16 @@ Open source GitHub Repositories with Python language:
 -------------------------------------------------------------------------------------------------------------------
 
 
- Name: fastapi
- Description: FastAPI framework, high performance, easy to learn, fast to code, ready for production
- Owner url: https://github.com/fastapi 
+ Name: ComfyUI
+ Description: The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.
+ Owner url: https://github.com/comfyanonymous 
 
 -------------------------------------------------------------------------------------------------------------------
 
 
- Name: ComfyUI
- Description: The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.
- Owner url: https://github.com/comfyanonymous 
+ Name: fastapi
+ Description: FastAPI framework, high performance, easy to learn, fast to code, ready for production
+ Owner url: https://github.com/fastapi 
 
 -------------------------------------------------------------------------------------------------------------------
 
@@ -134,6 +141,13 @@ Open source GitHub Repositories with Python language:
 -------------------------------------------------------------------------------------------------------------------
 
 
+ Name: markitdown
+ Description: Python tool for converting files and office documents to Markdown.
+ Owner url: https://github.com/microsoft 
+
+-------------------------------------------------------------------------------------------------------------------
+
+
  Name: core
  Description: :house_with_garden: Open source home automation that puts local control and privacy first.
  Owner url: https://github.com/home-assistant 
@@ -144,13 +158,6 @@ Open source GitHub Repositories with Python language:
  Name: manim
  Description: Animation engine for explanatory math videos
  Owner url: https://github.com/3b1b 
-
--------------------------------------------------------------------------------------------------------------------
-
-
- Name: markitdown
- Description: Python tool for converting files and office documents to Markdown.
- Owner url: https://github.com/microsoft 
 
 -------------------------------------------------------------------------------------------------------------------
 
@@ -183,13 +190,6 @@ Open source GitHub Repositories with Python language:
 -------------------------------------------------------------------------------------------------------------------
 
 
- Name: d2l-zh
- Description: 《动手学深度学习》：面向中文读者、能运行、可讨论。中英文版被70多个国家的500多所大学用于教学。
- Owner url: https://github.com/d2l-ai 
-
--------------------------------------------------------------------------------------------------------------------
-
-
  Name: awesome-llm-apps
  Description: Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.
  Owner url: https://github.com/Shubhamsaboo 
@@ -197,9 +197,9 @@ Open source GitHub Repositories with Python language:
 -------------------------------------------------------------------------------------------------------------------
 
 
- Name: screenshot-to-code
- Description: Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)
- Owner url: https://github.com/abi 
+ Name: d2l-zh
+ Description: 《动手学深度学习》：面向中文读者、能运行、可讨论。中英文版被70多个国家的500多所大学用于教学。
+ Owner url: https://github.com/d2l-ai 
 
 -------------------------------------------------------------------------------------------------------------------
 
