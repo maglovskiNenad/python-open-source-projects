@@ -99,9 +99,23 @@ Open source GitHub Repositories with Python language:
 -------------------------------------------------------------------------------------------------------------------
 
 
+ Name: hermes-agent
+ Description: The agent that grows with you
+ Owner url: https://github.com/NousResearch 
+
+-------------------------------------------------------------------------------------------------------------------
+
+
  Name: skills
  Description: Public repository for Agent Skills
  Owner url: https://github.com/anthropics 
+
+-------------------------------------------------------------------------------------------------------------------
+
+
+ Name: markitdown
+ Description: Python tool for converting files and office documents to Markdown.
+ Owner url: https://github.com/microsoft 
 
 -------------------------------------------------------------------------------------------------------------------
 
@@ -114,7 +128,7 @@ Open source GitHub Repositories with Python language:
 
 
  Name: awesome-llm-apps
- Description: Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.
+ Description: 100+ AI Agent & RAG apps you can actually run — clone, customize, ship.
  Owner url: https://github.com/Shubhamsaboo 
 
 -------------------------------------------------------------------------------------------------------------------
@@ -155,16 +169,23 @@ Open source GitHub Repositories with Python language:
 -------------------------------------------------------------------------------------------------------------------
 
 
- Name: markitdown
- Description: Python tool for converting files and office documents to Markdown.
- Owner url: https://github.com/microsoft 
+ Name: Deep-Live-Cam
+ Description: real time face swap and one-click video deepfake with only a single image
+ Owner url: https://github.com/hacksider 
 
 -------------------------------------------------------------------------------------------------------------------
 
 
- Name: Deep-Live-Cam
- Description: real time face swap and one-click video deepfake with only a single image
- Owner url: https://github.com/hacksider 
+ Name: spec-kit
+ Description: 💫 Toolkit to help you get started with Spec-Driven Development
+ Owner url: https://github.com/github 
+
+-------------------------------------------------------------------------------------------------------------------
+
+
+ Name: browser-use
+ Description: 🌐 Make websites accessible for AI agents. Automate tasks online with ease.
+ Owner url: https://github.com/browser-use 
 
 -------------------------------------------------------------------------------------------------------------------
 
@@ -186,27 +207,6 @@ Open source GitHub Repositories with Python language:
  Name: manim
  Description: Animation engine for explanatory math videos
  Owner url: https://github.com/3b1b 
-
--------------------------------------------------------------------------------------------------------------------
-
-
- Name: browser-use
- Description: 🌐 Make websites accessible for AI agents. Automate tasks online with ease.
- Owner url: https://github.com/browser-use 
-
--------------------------------------------------------------------------------------------------------------------
-
-
- Name: spec-kit
- Description: 💫 Toolkit to help you get started with Spec-Driven Development
- Owner url: https://github.com/github 
-
--------------------------------------------------------------------------------------------------------------------
-
-
- Name: devops-exercises
- Description: Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
- Owner url: https://github.com/bregman-arie 
 
 -------------------------------------------------------------------------------------------------------------------
 
