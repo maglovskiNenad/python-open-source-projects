@@ -43,6 +43,20 @@ Open source GitHub Repositories with Python language:
 -------------------------------------------------------------------------------------------------------------------
 
 
+ Name: hermes-agent
+ Description: The agent that grows with you
+ Owner url: https://github.com/NousResearch 
+
+-------------------------------------------------------------------------------------------------------------------
+
+
+ Name: yt-dlp
+ Description: A feature-rich command-line audio/video downloader
+ Owner url: https://github.com/yt-dlp 
+
+-------------------------------------------------------------------------------------------------------------------
+
+
  Name: stable-diffusion-webui
  Description: Stable Diffusion web UI
  Owner url: https://github.com/AUTOMATIC1111 
@@ -53,13 +67,6 @@ Open source GitHub Repositories with Python language:
  Name: transformers
  Description: 🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training. 
  Owner url: https://github.com/huggingface 
-
--------------------------------------------------------------------------------------------------------------------
-
-
- Name: yt-dlp
- Description: A feature-rich command-line audio/video downloader
- Owner url: https://github.com/yt-dlp 
 
 -------------------------------------------------------------------------------------------------------------------
 
@@ -78,16 +85,16 @@ Open source GitHub Repositories with Python language:
 -------------------------------------------------------------------------------------------------------------------
 
 
- Name: youtube-dl
- Description: Command-line program to download videos from YouTube.com and other video sites
- Owner url: https://github.com/ytdl-org 
+ Name: skills
+ Description: Public repository for Agent Skills
+ Owner url: https://github.com/anthropics 
 
 -------------------------------------------------------------------------------------------------------------------
 
 
- Name: langchain
- Description: The agent engineering platform
- Owner url: https://github.com/langchain-ai 
+ Name: youtube-dl
+ Description: Command-line program to download videos from YouTube.com and other video sites
+ Owner url: https://github.com/ytdl-org 
 
 -------------------------------------------------------------------------------------------------------------------
 
@@ -99,16 +106,9 @@ Open source GitHub Repositories with Python language:
 -------------------------------------------------------------------------------------------------------------------
 
 
- Name: hermes-agent
- Description: The agent that grows with you
- Owner url: https://github.com/NousResearch 
-
--------------------------------------------------------------------------------------------------------------------
-
-
- Name: skills
- Description: Public repository for Agent Skills
- Owner url: https://github.com/anthropics 
+ Name: langchain
+ Description: The agent engineering platform.
+ Owner url: https://github.com/langchain-ai 
 
 -------------------------------------------------------------------------------------------------------------------
 
@@ -116,6 +116,13 @@ Open source GitHub Repositories with Python language:
  Name: markitdown
  Description: Python tool for converting files and office documents to Markdown.
  Owner url: https://github.com/microsoft 
+
+-------------------------------------------------------------------------------------------------------------------
+
+
+ Name: claude-code
+ Description: Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
+ Owner url: https://github.com/anthropics 
 
 -------------------------------------------------------------------------------------------------------------------
 
@@ -134,6 +141,13 @@ Open source GitHub Repositories with Python language:
 -------------------------------------------------------------------------------------------------------------------
 
 
+ Name: spec-kit
+ Description: 💫 Toolkit to help you get started with Spec-Driven Development
+ Owner url: https://github.com/github 
+
+-------------------------------------------------------------------------------------------------------------------
+
+
  Name: DeepSeek-V3
  Description: None
  Owner url: https://github.com/deepseek-ai 
@@ -141,16 +155,16 @@ Open source GitHub Repositories with Python language:
 -------------------------------------------------------------------------------------------------------------------
 
 
- Name: pytorch
- Description: Tensors and Dynamic neural networks in Python with strong GPU acceleration
- Owner url: https://github.com/pytorch 
+ Name: whisper
+ Description: Robust Speech Recognition via Large-Scale Weak Supervision
+ Owner url: https://github.com/openai 
 
 -------------------------------------------------------------------------------------------------------------------
 
 
- Name: whisper
- Description: Robust Speech Recognition via Large-Scale Weak Supervision
- Owner url: https://github.com/openai 
+ Name: pytorch
+ Description: Tensors and Dynamic neural networks in Python with strong GPU acceleration
+ Owner url: https://github.com/pytorch 
 
 -------------------------------------------------------------------------------------------------------------------
 
@@ -169,23 +183,16 @@ Open source GitHub Repositories with Python language:
 -------------------------------------------------------------------------------------------------------------------
 
 
- Name: Deep-Live-Cam
- Description: real time face swap and one-click video deepfake with only a single image
- Owner url: https://github.com/hacksider 
-
--------------------------------------------------------------------------------------------------------------------
-
-
- Name: spec-kit
- Description: 💫 Toolkit to help you get started with Spec-Driven Development
- Owner url: https://github.com/github 
-
--------------------------------------------------------------------------------------------------------------------
-
-
  Name: browser-use
  Description: 🌐 Make websites accessible for AI agents. Automate tasks online with ease.
  Owner url: https://github.com/browser-use 
+
+-------------------------------------------------------------------------------------------------------------------
+
+
+ Name: Deep-Live-Cam
+ Description: real time face swap and one-click video deepfake with only a single image
+ Owner url: https://github.com/hacksider 
 
 -------------------------------------------------------------------------------------------------------------------
 
@@ -200,13 +207,6 @@ Open source GitHub Repositories with Python language:
  Name: core
  Description: :house_with_garden: Open source home automation that puts local control and privacy first.
  Owner url: https://github.com/home-assistant 
-
--------------------------------------------------------------------------------------------------------------------
-
-
- Name: manim
- Description: Animation engine for explanatory math videos
- Owner url: https://github.com/3b1b 
 
 -------------------------------------------------------------------------------------------------------------------
 
