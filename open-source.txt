@@ -36,16 +36,16 @@ Open source GitHub Repositories with Python language:
 -------------------------------------------------------------------------------------------------------------------
 
 
- Name: AutoGPT
- Description: AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
- Owner url: https://github.com/Significant-Gravitas 
+ Name: hermes-agent
+ Description: The agent that grows with you
+ Owner url: https://github.com/NousResearch 
 
 -------------------------------------------------------------------------------------------------------------------
 
 
- Name: hermes-agent
- Description: The agent that grows with you
- Owner url: https://github.com/NousResearch 
+ Name: AutoGPT
+ Description: AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
+ Owner url: https://github.com/Significant-Gravitas 
 
 -------------------------------------------------------------------------------------------------------------------
 
@@ -64,13 +64,6 @@ Open source GitHub Repositories with Python language:
 -------------------------------------------------------------------------------------------------------------------
 
 
- Name: transformers
- Description: 🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training. 
- Owner url: https://github.com/huggingface 
-
--------------------------------------------------------------------------------------------------------------------
-
-
  Name: HelloGitHub
  Description: :octocat: 分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub.
  Owner url: https://github.com/521xueweihan 
@@ -78,9 +71,16 @@ Open source GitHub Repositories with Python language:
 -------------------------------------------------------------------------------------------------------------------
 
 
- Name: langflow
- Description: Langflow is a powerful tool for building and deploying AI-powered agents and workflows.
- Owner url: https://github.com/langflow-ai 
+ Name: transformers
+ Description: 🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training. 
+ Owner url: https://github.com/huggingface 
+
+-------------------------------------------------------------------------------------------------------------------
+
+
+ Name: markitdown
+ Description: Python tool for converting files and office documents to Markdown.
+ Owner url: https://github.com/microsoft 
 
 -------------------------------------------------------------------------------------------------------------------
 
@@ -92,9 +92,9 @@ Open source GitHub Repositories with Python language:
 -------------------------------------------------------------------------------------------------------------------
 
 
- Name: youtube-dl
- Description: Command-line program to download videos from YouTube.com and other video sites
- Owner url: https://github.com/ytdl-org 
+ Name: langflow
+ Description: Langflow is a powerful tool for building and deploying AI-powered agents and workflows.
+ Owner url: https://github.com/langflow-ai 
 
 -------------------------------------------------------------------------------------------------------------------
 
@@ -113,9 +113,9 @@ Open source GitHub Repositories with Python language:
 -------------------------------------------------------------------------------------------------------------------
 
 
- Name: markitdown
- Description: Python tool for converting files and office documents to Markdown.
- Owner url: https://github.com/microsoft 
+ Name: youtube-dl
+ Description: Command-line program to download videos from YouTube.com and other video sites
+ Owner url: https://github.com/ytdl-org 
 
 -------------------------------------------------------------------------------------------------------------------
 
@@ -134,6 +134,13 @@ Open source GitHub Repositories with Python language:
 -------------------------------------------------------------------------------------------------------------------
 
 
+ Name: spec-kit
+ Description: 💫 Toolkit to help you get started with Spec-Driven Development
+ Owner url: https://github.com/github 
+
+-------------------------------------------------------------------------------------------------------------------
+
+
  Name: awesome-llm-apps
  Description: 100+ AI Agent & RAG apps you can actually run — clone, customize, ship.
  Owner url: https://github.com/Shubhamsaboo 
@@ -141,9 +148,9 @@ Open source GitHub Repositories with Python language:
 -------------------------------------------------------------------------------------------------------------------
 
 
- Name: spec-kit
- Description: 💫 Toolkit to help you get started with Spec-Driven Development
- Owner url: https://github.com/github 
+ Name: whisper
+ Description: Robust Speech Recognition via Large-Scale Weak Supervision
+ Owner url: https://github.com/openai 
 
 -------------------------------------------------------------------------------------------------------------------
 
@@ -155,9 +162,9 @@ Open source GitHub Repositories with Python language:
 -------------------------------------------------------------------------------------------------------------------
 
 
- Name: whisper
- Description: Robust Speech Recognition via Large-Scale Weak Supervision
- Owner url: https://github.com/openai 
+ Name: browser-use
+ Description: 🌐 Make websites accessible for AI agents. Automate tasks online with ease.
+ Owner url: https://github.com/browser-use 
 
 -------------------------------------------------------------------------------------------------------------------
 
@@ -176,6 +183,13 @@ Open source GitHub Repositories with Python language:
 -------------------------------------------------------------------------------------------------------------------
 
 
+ Name: ui-ux-pro-max-skill
+ Description: An AI SKILL that provide design intelligence for building professional UI/UX multiple platforms
+ Owner url: https://github.com/nextlevelbuilder 
+
+-------------------------------------------------------------------------------------------------------------------
+
+
  Name: thefuck
  Description: Magnificent app which corrects your previous console command.
  Owner url: https://github.com/nvbn 
@@ -183,9 +197,9 @@ Open source GitHub Repositories with Python language:
 -------------------------------------------------------------------------------------------------------------------
 
 
- Name: browser-use
- Description: 🌐 Make websites accessible for AI agents. Automate tasks online with ease.
- Owner url: https://github.com/browser-use 
+ Name: MoneyPrinterTurbo
+ Description: 利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.
+ Owner url: https://github.com/harry0703 
 
 -------------------------------------------------------------------------------------------------------------------
 
@@ -193,20 +207,6 @@ Open source GitHub Repositories with Python language:
  Name: Deep-Live-Cam
  Description: real time face swap and one-click video deepfake with only a single image
  Owner url: https://github.com/hacksider 
-
--------------------------------------------------------------------------------------------------------------------
-
-
- Name: django
- Description: The Web framework for perfectionists with deadlines.
- Owner url: https://github.com/django 
-
--------------------------------------------------------------------------------------------------------------------
-
-
- Name: core
- Description: :house_with_garden: Open source home automation that puts local control and privacy first.
- Owner url: https://github.com/home-assistant 
 
 -------------------------------------------------------------------------------------------------------------------
 
