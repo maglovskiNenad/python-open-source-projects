@@ -29,9 +29,9 @@ Open source GitHub Repositories with Python language:
 -------------------------------------------------------------------------------------------------------------------
 
 
- Name: Python
- Description: All Algorithms implemented in Python
- Owner url: https://github.com/TheAlgorithms 
+ Name: project-based-learning
+ Description: Curated list of project-based tutorials
+ Owner url: https://github.com/practical-tutorials 
 
 -------------------------------------------------------------------------------------------------------------------
 
@@ -39,6 +39,13 @@ Open source GitHub Repositories with Python language:
  Name: hermes-agent
  Description: The agent that grows with you
  Owner url: https://github.com/NousResearch 
+
+-------------------------------------------------------------------------------------------------------------------
+
+
+ Name: Python
+ Description: All Algorithms implemented in Python
+ Owner url: https://github.com/TheAlgorithms 
 
 -------------------------------------------------------------------------------------------------------------------
 
@@ -57,9 +64,9 @@ Open source GitHub Repositories with Python language:
 -------------------------------------------------------------------------------------------------------------------
 
 
- Name: stable-diffusion-webui
- Description: Stable Diffusion web UI
- Owner url: https://github.com/AUTOMATIC1111 
+ Name: markitdown
+ Description: Python tool for converting files and office documents to Markdown.
+ Owner url: https://github.com/microsoft 
 
 -------------------------------------------------------------------------------------------------------------------
 
@@ -71,23 +78,23 @@ Open source GitHub Repositories with Python language:
 -------------------------------------------------------------------------------------------------------------------
 
 
- Name: transformers
- Description: 🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training. 
- Owner url: https://github.com/huggingface 
-
--------------------------------------------------------------------------------------------------------------------
-
-
- Name: markitdown
- Description: Python tool for converting files and office documents to Markdown.
- Owner url: https://github.com/microsoft 
-
--------------------------------------------------------------------------------------------------------------------
-
-
  Name: skills
  Description: Public repository for Agent Skills
  Owner url: https://github.com/anthropics 
+
+-------------------------------------------------------------------------------------------------------------------
+
+
+ Name: stable-diffusion-webui
+ Description: Stable Diffusion web UI
+ Owner url: https://github.com/AUTOMATIC1111 
+
+-------------------------------------------------------------------------------------------------------------------
+
+
+ Name: transformers
+ Description: 🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training. 
+ Owner url: https://github.com/huggingface 
 
 -------------------------------------------------------------------------------------------------------------------
 
@@ -127,9 +134,9 @@ Open source GitHub Repositories with Python language:
 -------------------------------------------------------------------------------------------------------------------
 
 
- Name: ComfyUI
- Description: The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.
- Owner url: https://github.com/Comfy-Org 
+ Name: awesome-llm-apps
+ Description: 100+ AI Agents, Agent Skills and RAG Apps - Free and Open Source.
+ Owner url: https://github.com/Shubhamsaboo 
 
 -------------------------------------------------------------------------------------------------------------------
 
@@ -141,9 +148,23 @@ Open source GitHub Repositories with Python language:
 -------------------------------------------------------------------------------------------------------------------
 
 
- Name: awesome-llm-apps
- Description: 100+ AI Agent & RAG apps you can actually run — clone, customize, ship.
- Owner url: https://github.com/Shubhamsaboo 
+ Name: ComfyUI
+ Description: The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.
+ Owner url: https://github.com/Comfy-Org 
+
+-------------------------------------------------------------------------------------------------------------------
+
+
+ Name: ui-ux-pro-max-skill
+ Description: An AI SKILL that provide design intelligence for building professional UI/UX multiple platforms
+ Owner url: https://github.com/nextlevelbuilder 
+
+-------------------------------------------------------------------------------------------------------------------
+
+
+ Name: browser-use
+ Description: 🌐 Make websites accessible for AI agents. Automate tasks online with ease.
+ Owner url: https://github.com/browser-use 
 
 -------------------------------------------------------------------------------------------------------------------
 
@@ -162,13 +183,6 @@ Open source GitHub Repositories with Python language:
 -------------------------------------------------------------------------------------------------------------------
 
 
- Name: browser-use
- Description: 🌐 Make websites accessible for AI agents. Automate tasks online with ease.
- Owner url: https://github.com/browser-use 
-
--------------------------------------------------------------------------------------------------------------------
-
-
  Name: pytorch
  Description: Tensors and Dynamic neural networks in Python with strong GPU acceleration
  Owner url: https://github.com/pytorch 
@@ -183,30 +197,16 @@ Open source GitHub Repositories with Python language:
 -------------------------------------------------------------------------------------------------------------------
 
 
- Name: ui-ux-pro-max-skill
- Description: An AI SKILL that provide design intelligence for building professional UI/UX multiple platforms
- Owner url: https://github.com/nextlevelbuilder 
-
--------------------------------------------------------------------------------------------------------------------
-
-
- Name: thefuck
- Description: Magnificent app which corrects your previous console command.
- Owner url: https://github.com/nvbn 
-
--------------------------------------------------------------------------------------------------------------------
-
-
  Name: MoneyPrinterTurbo
- Description: 利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.
+ Description: 利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.
  Owner url: https://github.com/harry0703 
 
 -------------------------------------------------------------------------------------------------------------------
 
 
- Name: Deep-Live-Cam
- Description: real time face swap and one-click video deepfake with only a single image
- Owner url: https://github.com/hacksider 
+ Name: graphify
+ Description: Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.
+ Owner url: https://github.com/Graphify-Labs 
 
 -------------------------------------------------------------------------------------------------------------------
 
