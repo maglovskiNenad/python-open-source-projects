@@ -23,7 +23,7 @@ Open source GitHub Repositories with Python language:
 
 
  Name: awesome-python
- Description: An opinionated list of Python frameworks, libraries, tools, and resources
+ Description: The definitive list that answers "I want to do X in Python, which tool should I use?"
  Owner url: https://github.com/vinta 
 
 -------------------------------------------------------------------------------------------------------------------
@@ -50,16 +50,16 @@ Open source GitHub Repositories with Python language:
 -------------------------------------------------------------------------------------------------------------------
 
 
- Name: AutoGPT
- Description: AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
- Owner url: https://github.com/Significant-Gravitas 
+ Name: yt-dlp
+ Description: A feature-rich command-line audio/video downloader
+ Owner url: https://github.com/yt-dlp 
 
 -------------------------------------------------------------------------------------------------------------------
 
 
- Name: yt-dlp
- Description: A feature-rich command-line audio/video downloader
- Owner url: https://github.com/yt-dlp 
+ Name: AutoGPT
+ Description: AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
+ Owner url: https://github.com/Significant-Gravitas 
 
 -------------------------------------------------------------------------------------------------------------------
 
@@ -120,16 +120,16 @@ Open source GitHub Repositories with Python language:
 -------------------------------------------------------------------------------------------------------------------
 
 
- Name: youtube-dl
- Description: Command-line program to download videos from YouTube.com and other video sites
- Owner url: https://github.com/ytdl-org 
+ Name: claude-code
+ Description: Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
+ Owner url: https://github.com/anthropics 
 
 -------------------------------------------------------------------------------------------------------------------
 
 
- Name: claude-code
- Description: Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
- Owner url: https://github.com/anthropics 
+ Name: youtube-dl
+ Description: Command-line program to download videos from YouTube.com and other video sites
+ Owner url: https://github.com/ytdl-org 
 
 -------------------------------------------------------------------------------------------------------------------
 
@@ -156,8 +156,22 @@ Open source GitHub Repositories with Python language:
 
 
  Name: ui-ux-pro-max-skill
- Description: An AI SKILL that provide design intelligence for building professional UI/UX multiple platforms
+ Description: An AI skill that provides design intelligence for building professional UI/UX across multiple platforms.
  Owner url: https://github.com/nextlevelbuilder 
+
+-------------------------------------------------------------------------------------------------------------------
+
+
+ Name: MoneyPrinterTurbo
+ Description: 利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.
+ Owner url: https://github.com/harry0703 
+
+-------------------------------------------------------------------------------------------------------------------
+
+
+ Name: graphify
+ Description: Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.
+ Owner url: https://github.com/Graphify-Labs 
 
 -------------------------------------------------------------------------------------------------------------------
 
@@ -190,23 +204,9 @@ Open source GitHub Repositories with Python language:
 -------------------------------------------------------------------------------------------------------------------
 
 
- Name: fastapi
- Description: FastAPI framework, high performance, easy to learn, fast to code, ready for production
- Owner url: https://github.com/fastapi 
-
--------------------------------------------------------------------------------------------------------------------
-
-
- Name: MoneyPrinterTurbo
- Description: 利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.
- Owner url: https://github.com/harry0703 
-
--------------------------------------------------------------------------------------------------------------------
-
-
- Name: graphify
- Description: Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.
- Owner url: https://github.com/Graphify-Labs 
+ Name: TradingAgents
+ Description: TradingAgents: Multi-Agents LLM Financial Trading Framework
+ Owner url: https://github.com/TauricResearch 
 
 -------------------------------------------------------------------------------------------------------------------
 
