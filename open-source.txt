@@ -57,16 +57,16 @@ Open source GitHub Repositories with Python language:
 -------------------------------------------------------------------------------------------------------------------
 
 
- Name: AutoGPT
- Description: AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
- Owner url: https://github.com/Significant-Gravitas 
+ Name: markitdown
+ Description: Python tool for converting files and office documents to Markdown.
+ Owner url: https://github.com/microsoft 
 
 -------------------------------------------------------------------------------------------------------------------
 
 
- Name: markitdown
- Description: Python tool for converting files and office documents to Markdown.
- Owner url: https://github.com/microsoft 
+ Name: AutoGPT
+ Description: AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
+ Owner url: https://github.com/Significant-Gravitas 
 
 -------------------------------------------------------------------------------------------------------------------
 
@@ -85,16 +85,16 @@ Open source GitHub Repositories with Python language:
 -------------------------------------------------------------------------------------------------------------------
 
 
- Name: stable-diffusion-webui
- Description: Stable Diffusion web UI
- Owner url: https://github.com/AUTOMATIC1111 
+ Name: transformers
+ Description: 🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training. 
+ Owner url: https://github.com/huggingface 
 
 -------------------------------------------------------------------------------------------------------------------
 
 
- Name: transformers
- Description: 🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training. 
- Owner url: https://github.com/huggingface 
+ Name: stable-diffusion-webui
+ Description: Stable Diffusion web UI
+ Owner url: https://github.com/AUTOMATIC1111 
 
 -------------------------------------------------------------------------------------------------------------------
 
@@ -120,13 +120,6 @@ Open source GitHub Repositories with Python language:
 -------------------------------------------------------------------------------------------------------------------
 
 
- Name: claude-code
- Description: Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
- Owner url: https://github.com/anthropics 
-
--------------------------------------------------------------------------------------------------------------------
-
-
  Name: youtube-dl
  Description: Command-line program to download videos from YouTube.com and other video sites
  Owner url: https://github.com/ytdl-org 
@@ -142,14 +135,14 @@ Open source GitHub Repositories with Python language:
 
 
  Name: spec-kit
- Description: 💫 Toolkit to help you get started with Spec-Driven Development
+ Description: 💫 Toolkit to help you get started with SDD or any other process!
  Owner url: https://github.com/github 
 
 -------------------------------------------------------------------------------------------------------------------
 
 
  Name: ComfyUI
- Description: The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.
+ Description: The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.
  Owner url: https://github.com/Comfy-Org 
 
 -------------------------------------------------------------------------------------------------------------------
@@ -177,7 +170,7 @@ Open source GitHub Repositories with Python language:
 
 
  Name: browser-use
- Description: 🌐 Make websites accessible for AI agents. Automate tasks online with ease.
+ Description: Agents that use the browser.
  Owner url: https://github.com/browser-use 
 
 -------------------------------------------------------------------------------------------------------------------
@@ -186,6 +179,13 @@ Open source GitHub Repositories with Python language:
  Name: whisper
  Description: Robust Speech Recognition via Large-Scale Weak Supervision
  Owner url: https://github.com/openai 
+
+-------------------------------------------------------------------------------------------------------------------
+
+
+ Name: TradingAgents
+ Description: TradingAgents: Multi-Agents LLM Financial Trading Framework
+ Owner url: https://github.com/TauricResearch 
 
 -------------------------------------------------------------------------------------------------------------------
 
@@ -204,9 +204,9 @@ Open source GitHub Repositories with Python language:
 -------------------------------------------------------------------------------------------------------------------
 
 
- Name: TradingAgents
- Description: TradingAgents: Multi-Agents LLM Financial Trading Framework
- Owner url: https://github.com/TauricResearch 
+ Name: fastapi
+ Description: FastAPI framework, high performance, easy to learn, fast to code, ready for production
+ Owner url: https://github.com/fastapi 
 
 -------------------------------------------------------------------------------------------------------------------
 
