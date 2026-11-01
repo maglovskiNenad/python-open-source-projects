@@ -71,16 +71,16 @@ Open source GitHub Repositories with Python language:
 -------------------------------------------------------------------------------------------------------------------
 
 
- Name: HelloGitHub
- Description: :octocat: 分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub.
- Owner url: https://github.com/521xueweihan 
+ Name: skills
+ Description: Public repository for Agent Skills
+ Owner url: https://github.com/anthropics 
 
 -------------------------------------------------------------------------------------------------------------------
 
 
- Name: skills
- Description: Public repository for Agent Skills
- Owner url: https://github.com/anthropics 
+ Name: HelloGitHub
+ Description: :octocat: 分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub.
+ Owner url: https://github.com/521xueweihan 
 
 -------------------------------------------------------------------------------------------------------------------
 
@@ -99,9 +99,9 @@ Open source GitHub Repositories with Python language:
 -------------------------------------------------------------------------------------------------------------------
 
 
- Name: langflow
- Description: Langflow is a powerful tool for building and deploying AI-powered agents and workflows.
- Owner url: https://github.com/langflow-ai 
+ Name: dify
+ Description: Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack.
+ Owner url: https://github.com/langgenius 
 
 -------------------------------------------------------------------------------------------------------------------
 
@@ -113,23 +113,16 @@ Open source GitHub Repositories with Python language:
 -------------------------------------------------------------------------------------------------------------------
 
 
+ Name: langflow
+ Description: Langflow is a powerful tool for building and deploying AI-powered agents and workflows.
+ Owner url: https://github.com/langflow-ai 
+
+-------------------------------------------------------------------------------------------------------------------
+
+
  Name: langchain
  Description: The agent engineering platform.
  Owner url: https://github.com/langchain-ai 
-
--------------------------------------------------------------------------------------------------------------------
-
-
- Name: youtube-dl
- Description: Command-line program to download videos from YouTube.com and other video sites
- Owner url: https://github.com/ytdl-org 
-
--------------------------------------------------------------------------------------------------------------------
-
-
- Name: awesome-llm-apps
- Description: 100+ AI Agents, Agent Skills and RAG Apps - Free and Open Source.
- Owner url: https://github.com/Shubhamsaboo 
 
 -------------------------------------------------------------------------------------------------------------------
 
@@ -155,9 +148,16 @@ Open source GitHub Repositories with Python language:
 -------------------------------------------------------------------------------------------------------------------
 
 
- Name: MoneyPrinterTurbo
- Description: 利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.
- Owner url: https://github.com/harry0703 
+ Name: awesome-llm-apps
+ Description: 100+ AI Agents, Agent Skills and RAG Apps - Free and Open Source.
+ Owner url: https://github.com/Shubhamsaboo 
+
+-------------------------------------------------------------------------------------------------------------------
+
+
+ Name: youtube-dl
+ Description: Command-line program to download videos from YouTube.com and other video sites
+ Owner url: https://github.com/ytdl-org 
 
 -------------------------------------------------------------------------------------------------------------------
 
@@ -169,16 +169,16 @@ Open source GitHub Repositories with Python language:
 -------------------------------------------------------------------------------------------------------------------
 
 
- Name: browser-use
- Description: Agents that use the browser.
- Owner url: https://github.com/browser-use 
+ Name: MoneyPrinterTurbo
+ Description: 利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.
+ Owner url: https://github.com/harry0703 
 
 -------------------------------------------------------------------------------------------------------------------
 
 
- Name: whisper
- Description: Robust Speech Recognition via Large-Scale Weak Supervision
- Owner url: https://github.com/openai 
+ Name: browser-use
+ Description: Open-source Python library for AI browser agents, plus Browser Use Cloud: stealth browsers and a hosted agent API.
+ Owner url: https://github.com/browser-use 
 
 -------------------------------------------------------------------------------------------------------------------
 
@@ -190,9 +190,16 @@ Open source GitHub Repositories with Python language:
 -------------------------------------------------------------------------------------------------------------------
 
 
- Name: DeepSeek-V3
- Description: None
- Owner url: https://github.com/deepseek-ai 
+ Name: whisper
+ Description: Robust Speech Recognition via Large-Scale Weak Supervision
+ Owner url: https://github.com/openai 
+
+-------------------------------------------------------------------------------------------------------------------
+
+
+ Name: Agent-Reach
+ Description: Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.
+ Owner url: https://github.com/Panniantong 
 
 -------------------------------------------------------------------------------------------------------------------
 
@@ -200,13 +207,6 @@ Open source GitHub Repositories with Python language:
  Name: pytorch
  Description: Tensors and Dynamic neural networks in Python with strong GPU acceleration
  Owner url: https://github.com/pytorch 
-
--------------------------------------------------------------------------------------------------------------------
-
-
- Name: fastapi
- Description: FastAPI framework, high performance, easy to learn, fast to code, ready for production
- Owner url: https://github.com/fastapi 
 
 -------------------------------------------------------------------------------------------------------------------
 
